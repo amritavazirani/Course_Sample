@@ -1,0 +1,12 @@
+---
+title: Sample Course
+----
+
+----------------
+Introduction
+----------------
+
+The title of the document is {{ page.title }}.
+
+
+
